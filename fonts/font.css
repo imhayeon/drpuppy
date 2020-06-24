@@ -1,0 +1,18 @@
+@font-face {
+  font-family: '210 옴니고딕 030';
+  src: url('210 옴니고딕 030.eot');
+  src: url('210 옴니고딕 030.eot?#iefix') format('embedded-opentype'),
+       url('210 옴니고딕 030.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTOmniGothicM';
+  src: url('TTOmniGothicM.svg#TTOmniGothicM') format('svg'),
+       url('TTOmniGothicM.ttf') format('truetype'),
+       url('TTOmniGothicM.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
